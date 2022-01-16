@@ -22,7 +22,7 @@ url     : https://thejuniorwebber.github.io # the base hostname & protocol for y
 baseurl : # does not include hostname
 title   : The Junior Webber
 description: > # this means to ignore newlines until "Language & timezone"
-  Journey to a Web Developer
+  A blog about sharing programming-related tips and knowledge with a focus on web development.
 
 
 ## => Language and Timezone
